@@ -1,0 +1,1508 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          116.50931677018633,
+          84.58385093167702
+        ],
+        [
+          124.83229813664596,
+          84.7080745341615
+        ],
+        [
+          125.32919254658385,
+          78.86956521739131
+        ],
+        [
+          120.48447204968944,
+          77.75155279503106
+        ],
+        [
+          116.75776397515529,
+          80.11180124223603
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          131.0434782608696,
+          78.74534161490683
+        ],
+        [
+          122.09937888198758,
+          72.53416149068323
+        ],
+        [
+          121.22981366459628,
+          66.69565217391305
+        ],
+        [
+          123.71428571428571,
+          63.09316770186336
+        ],
+        [
+          129.55279503105592,
+          62.84472049689442
+        ],
+        [
+          132.6583850931677,
+          65.70186335403727
+        ],
+        [
+          131.91304347826087,
+          71.66459627329193
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          140.2360248447205,
+          56.38509316770187
+        ],
+        [
+          139.73913043478262,
+          62.09937888198758
+        ],
+        [
+          142.72049689440996,
+          65.70186335403727
+        ],
+        [
+          147.4409937888199,
+          64.95652173913044
+        ],
+        [
+          150.67080745341616,
+          61.602484472049696
+        ],
+        [
+          150.17391304347828,
+          57.25465838509317
+        ],
+        [
+          146.32298136645963,
+          55.51552795031056
+        ],
+        [
+          142.472049689441,
+          55.51552795031056
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          132.03726708074535,
+          42.72049689440995
+        ],
+        [
+          131.91304347826087,
+          48.93167701863355
+        ],
+        [
+          135.26708074534162,
+          51.29192546583852
+        ],
+        [
+          139.8633540372671,
+          48.186335403726716
+        ],
+        [
+          138.9937888198758,
+          43.341614906832305
+        ],
+        [
+          136.6335403726708,
+          41.726708074534166
+        ],
+        [
+          132.90683229813666,
+          40.98136645962734
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          103.46583850931677,
+          54.0248447204969
+        ],
+        [
+          98.24844720496894,
+          54.894409937888206
+        ],
+        [
+          94.14906832298136,
+          55.76397515527951
+        ],
+        [
+          97.75155279503106,
+          58.745341614906835
+        ],
+        [
+          103.71428571428572,
+          60.98136645962733
+        ],
+        [
+          108.18633540372672,
+          63.465838509316775
+        ],
+        [
+          110.29813664596273,
+          62.22360248447205
+        ],
+        [
+          112.03726708074534,
+          59.739130434782616
+        ],
+        [
+          110.9192546583851,
+          56.2608695652174
+        ],
+        [
+          107.44099378881988,
+          53.90062111801243
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          79.24223602484473,
+          47.68944099378883
+        ],
+        [
+          84.2111801242236,
+          50.9192546583851
+        ],
+        [
+          86.4472049689441,
+          52.90683229813665
+        ],
+        [
+          92.90683229813665,
+          51.664596273291934
+        ],
+        [
+          93.15527950310559,
+          47.68944099378883
+        ],
+        [
+          92.78260869565217,
+          42.59627329192547
+        ],
+        [
+          89.55279503105591,
+          41.85093167701864
+        ],
+        [
+          85.5776397515528,
+          41.85093167701864
+        ],
+        [
+          83.83850931677019,
+          44.58385093167703
+        ],
+        [
+          83.46583850931677,
+          46.19875776397516
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          156.27260458839407,
+          106.34008097165992
+        ],
+        [
+          149.65991902834008,
+          106.87989203778677
+        ],
+        [
+          143.0472334682861,
+          112.41295546558703
+        ],
+        [
+          149.25506072874495,
+          116.8663967611336
+        ],
+        [
+          158.02699055330635,
+          119.56545209176788
+        ],
+        [
+          164.77462887989205,
+          121.45479082321187
+        ],
+        [
+          169.0931174089069,
+          119.02564102564102
+        ],
+        [
+          172.8717948717949,
+          114.70715249662618
+        ],
+        [
+          176.78542510121457,
+          109.30904183535762
+        ],
+        [
+          178.8097165991903,
+          102.83130904183535
+        ],
+        [
+          175.8407557354926,
+          99.18758434547908
+        ],
+        [
+          173.1417004048583,
+          93.38461538461537
+        ],
+        [
+          169.0931174089069,
+          89.06612685560053
+        ],
+        [
+          160.72604588394063,
+          87.71659919028339
+        ],
+        [
+          159.3765182186235,
+          91.22537112010795
+        ],
+        [
+          163.2901484480432,
+          95.00404858299595
+        ],
+        [
+          165.98920377867748,
+          99.32253711201079
+        ],
+        [
+          164.63967611336034,
+          103.91093117408906
+        ],
+        [
+          162.4804318488529,
+          106.60998650472334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          197.2982456140351,
+          102.83130904183535
+        ],
+        [
+          191.6302294197031,
+          104.58569500674763
+        ],
+        [
+          192.84480431848854,
+          109.44399460188933
+        ],
+        [
+          195.81376518218624,
+          114.16734143049932
+        ],
+        [
+          200.1322537112011,
+          112.54790823211876
+        ],
+        [
+          202.96626180836708,
+          107.82456140350877
+        ],
+        [
+          208.49932523616735,
+          105.93522267206477
+        ],
+        [
+          207.0148448043185,
+          103.10121457489878
+        ],
+        [
+          201.75168690958165,
+          103.77597840755735
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          189.74089068825913,
+          130.22672064777328
+        ],
+        [
+          185.15249662618083,
+          132.79082321187585
+        ],
+        [
+          183.53306342780027,
+          137.78407557354927
+        ],
+        [
+          181.1039136302294,
+          142.50742240215925
+        ],
+        [
+          181.778677462888,
+          148.04048582995952
+        ],
+        [
+          185.42240215924429,
+          152.35897435897436
+        ],
+        [
+          187.98650472334683,
+          148.98515519568153
+        ],
+        [
+          190.95546558704453,
+          145.07152496626182
+        ],
+        [
+          195.81376518218624,
+          141.69770580296898
+        ],
+        [
+          197.02834008097167,
+          136.29959514170042
+        ],
+        [
+          194.73414304993253,
+          135.085020242915
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          209.0391363022942,
+          186.50202429149797
+        ],
+        [
+          201.88663967611336,
+          186.23211875843455
+        ],
+        [
+          199.59244264507424,
+          191.3603238866397
+        ],
+        [
+          206.60998650472337,
+          198.3778677462888
+        ],
+        [
+          212.54790823211877,
+          196.75843454790825
+        ],
+        [
+          217.81106612685562,
+          195.4089068825911
+        ],
+        [
+          217.54116059379217,
+          189.47098515519568
+        ],
+        [
+          216.19163292847503,
+          186.36707152496626
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          194.4642375168691,
+          236.02968960863697
+        ],
+        [
+          197.70310391363023,
+          226.58299595141702
+        ],
+        [
+          199.99730094466938,
+          221.7246963562753
+        ],
+        [
+          201.0769230769231,
+          215.7867746288799
+        ],
+        [
+          205.39541160593794,
+          213.6275303643725
+        ],
+        [
+          208.63427800269906,
+          216.5964912280702
+        ],
+        [
+          205.66531713900136,
+          219.5654520917679
+        ],
+        [
+          205.66531713900136,
+          223.61403508771932
+        ],
+        [
+          204.31578947368422,
+          227.12280701754386
+        ],
+        [
+          200.53711201079622,
+          231.306342780027
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          144.8016194331984,
+          168.14844804318489
+        ],
+        [
+          143.58704453441297,
+          171.52226720647775
+        ],
+        [
+          141.1578947368421,
+          176.51551956815115
+        ],
+        [
+          143.9919028340081,
+          180.15924426450744
+        ],
+        [
+          147.23076923076923,
+          181.778677462888
+        ],
+        [
+          155.05802968960865,
+          180.9689608636977
+        ],
+        [
+          161.13090418353576,
+          180.69905533063428
+        ],
+        [
+          163.69500674763833,
+          175.9757085020243
+        ],
+        [
+          159.10661268556007,
+          174.62618083670716
+        ],
+        [
+          156.00269905533065,
+          174.22132253711203
+        ],
+        [
+          152.22402159244265,
+          175.43589743589743
+        ],
+        [
+          146.28609986504725,
+          175.43589743589743
+        ],
+        [
+          148.44534412955466,
+          173.54655870445345
+        ],
+        [
+          150.19973009446696,
+          170.57759784075574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          129.1470985155196,
+          188.25641025641028
+        ],
+        [
+          124.96356275303643,
+          189.47098515519568
+        ],
+        [
+          124.5587044534413,
+          186.50202429149797
+        ],
+        [
+          122.804318488529,
+          182.85829959514172
+        ],
+        [
+          123.07422402159244,
+          179.889338731444
+        ],
+        [
+          125.50337381916329,
+          180.69905533063428
+        ],
+        [
+          129.68690958164643,
+          183.8029689608637
+        ],
+        [
+          129.55195681511472,
+          185.01754385964912
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          66.91982182628063,
+          172.8218262806236
+        ],
+        [
+          63.13363028953229,
+          171.37416481069042
+        ],
+        [
+          62.354120267260576,
+          173.6013363028953
+        ],
+        [
+          60.79510022271715,
+          173.71269487750556
+        ],
+        [
+          60.57238307349666,
+          176.16258351893094
+        ],
+        [
+          58.233853006681514,
+          177.05345211581292
+        ],
+        [
+          56.11804008908686,
+          179.5033407572383
+        ],
+        [
+          61.24053452115813,
+          179.5033407572383
+        ],
+        [
+          66.02895322939867,
+          178.61247216035633
+        ],
+        [
+          69.48106904231626,
+          176.83073496659242
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          83.40089086859687,
+          166.5857461024499
+        ],
+        [
+          80.39420935412026,
+          168.03340757238306
+        ],
+        [
+          77.83296213808464,
+          168.81291759465478
+        ],
+        [
+          78.7238307349666,
+          171.0400890868597
+        ],
+        [
+          84.1804008908686,
+          172.48775055679286
+        ],
+        [
+          88.52338530066815,
+          172.15367483296214
+        ],
+        [
+          92.53229398663697,
+          169.815144766147
+        ],
+        [
+          91.8641425389755,
+          168.81291759465478
+        ],
+        [
+          88.6347438752784,
+          168.3674832962138
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          81.17371937639199,
+          142.97772828507794
+        ],
+        [
+          79.61469933184856,
+          144.42538975501114
+        ],
+        [
+          80.728285077951,
+          148.7683741648107
+        ],
+        [
+          80.83964365256125,
+          151.44097995545656
+        ],
+        [
+          83.62360801781738,
+          154.2249443207127
+        ],
+        [
+          85.51670378619154,
+          151.44097995545656
+        ],
+        [
+          90.08240534521158,
+          149.88195991091314
+        ],
+        [
+          93.64587973273942,
+          148.5456570155902
+        ],
+        [
+          95.76169265033407,
+          145.65033407572383
+        ],
+        [
+          94.20267260579064,
+          141.75278396436525
+        ],
+        [
+          90.86191536748329,
+          139.52561247216036
+        ],
+        [
+          87.6325167037862,
+          139.08017817371936
+        ],
+        [
+          85.51670378619154,
+          139.1915367483296
+        ],
+        [
+          84.51447661469933,
+          141.641425389755
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          38.340486409155936,
+          111.01573676680972
+        ],
+        [
+          34.763948497854074,
+          113.16165951359083
+        ],
+        [
+          33.047210300429185,
+          114.59227467811158
+        ],
+        [
+          35.622317596566525,
+          117.310443490701
+        ],
+        [
+          38.91273247496424,
+          119.02718168812589
+        ],
+        [
+          43.34763948497854,
+          119.45636623748211
+        ],
+        [
+          46.3519313304721,
+          116.7381974248927
+        ],
+        [
+          47.06723891273247,
+          113.16165951359083
+        ],
+        [
+          45.06437768240343,
+          111.1587982832618
+        ],
+        [
+          41.77396280400572,
+          111.01573676680972
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          7.214402618657944,
+          133.87888707037644
+        ],
+        [
+          16.379705400982,
+          123.240589198036
+        ],
+        [
+          18.180032733224227,
+          114.23895253682487
+        ],
+        [
+          20.962356792144032,
+          106.71031096563011
+        ],
+        [
+          19.816693944353524,
+          101.96399345335514
+        ],
+        [
+          15.397708674304425,
+          99.01800327332242
+        ],
+        [
+          10.815057283142394,
+          95.41734860883797
+        ],
+        [
+          7.705400981996732,
+          93.45335515548281
+        ],
+        [
+          5.741407528641577,
+          92.7986906710311
+        ],
+        [
+          6.232405891980367,
+          100.32733224222585
+        ],
+        [
+          7.050736497545014,
+          108.01963993453354
+        ],
+        [
+          7.541734860883803,
+          113.91162029459902
+        ],
+        [
+          7.050736497545014,
+          120.13093289689034
+        ],
+        [
+          7.541734860883803,
+          127.33224222585925
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          35.36497545008184,
+          86.90671031096562
+        ],
+        [
+          32.09165302782324,
+          85.43371522094925
+        ],
+        [
+          32.909983633387895,
+          82.32405891980359
+        ],
+        [
+          37.32896890343699,
+          82.32405891980359
+        ],
+        [
+          36.67430441898527,
+          84.28805237315875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          43.05728314238954,
+          76.59574468085106
+        ],
+        [
+          40.43862520458265,
+          72.9950900163666
+        ],
+        [
+          42.23895253682488,
+          68.73977086743044
+        ],
+        [
+          47.80360065466449,
+          67.10310965630114
+        ],
+        [
+          51.56792144026187,
+          67.10310965630114
+        ],
+        [
+          50.422258592471366,
+          69.72176759410802
+        ],
+        [
+          47.3126022913257,
+          72.50409165302781
+        ],
+        [
+          46.330605564648124,
+          77.25040916530278
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          65.97054009819968,
+          66.12111292962356
+        ],
+        [
+          64.9885433715221,
+          71.8494271685761
+        ],
+        [
+          64.66121112929625,
+          77.41407528641571
+        ],
+        [
+          67.77086743044191,
+          78.06873977086742
+        ],
+        [
+          70.71685761047463,
+          76.59574468085106
+        ],
+        [
+          71.0441898527005,
+          72.01309328968902
+        ],
+        [
+          70.71685761047463,
+          67.43044189852701
+        ],
+        [
+          69.73486088379705,
+          65.7937806873977
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          57.95090016366612,
+          62.193126022913255
+        ],
+        [
+          64.66121112929625,
+          61.211129296235676
+        ],
+        [
+          71.0441898527005,
+          60.06546644844517
+        ],
+        [
+          74.31751227495909,
+          56.46481178396072
+        ],
+        [
+          71.20785597381342,
+          55.31914893617021
+        ],
+        [
+          68.75286415711949,
+          54.50081833060556
+        ],
+        [
+          65.47954173486089,
+          52.04582651391162
+        ],
+        [
+          60.07855973813422,
+          51.55482815057283
+        ],
+        [
+          60.07855973813422,
+          54.173486088379704
+        ],
+        [
+          61.22422258592472,
+          56.79214402618658
+        ],
+        [
+          59.91489361702128,
+          58.265139116202946
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          72.189852700491,
+          28.150572831423894
+        ],
+        [
+          70.38952536824878,
+          25.69558101472995
+        ],
+        [
+          72.35351882160393,
+          19.639934533551553
+        ],
+        [
+          77.42716857610475,
+          19.148936170212764
+        ],
+        [
+          82.82815057283143,
+          20.621931260229132
+        ],
+        [
+          85.28314238952538,
+          22.585924713584287
+        ],
+        [
+          82.1734860883797,
+          24.386252045826513
+        ],
+        [
+          80.86415711947627,
+          26.841243862520457
+        ],
+        [
+          78.40916530278233,
+          28.314238952536822
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          52.713584288052374,
+          30.9328968903437
+        ],
+        [
+          59.75122749590835,
+          31.751227495908346
+        ],
+        [
+          62.369885433715226,
+          29.62356792144026
+        ],
+        [
+          63.67921440261867,
+          25.69558101472995
+        ],
+        [
+          60.07855973813422,
+          23.076923076923077
+        ],
+        [
+          57.62356792144027,
+          22.913256955810144
+        ],
+        [
+          52.713584288052374,
+          22.913256955810144
+        ],
+        [
+          52.713584288052374,
+          24.54991816693944
+        ],
+        [
+          53.69558101472995,
+          27.495908346972175
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          34.219312602291325,
+          44.51718494271685
+        ],
+        [
+          39.456628477905085,
+          44.680851063829785
+        ],
+        [
+          40.92962356792144,
+          40.42553191489362
+        ],
+        [
+          39.456628477905085,
+          39.770867430441896
+        ],
+        [
+          36.51063829787235,
+          39.770867430441896
+        ],
+        [
+          34.382978723404264,
+          41.89852700490998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Early_blight",
+      "points": [
+        [
+          103.61374795417349,
+          21.603927986906708
+        ],
+        [
+          107.21440261865794,
+          18.821603927986907
+        ],
+        [
+          113.27004909983634,
+          22.094926350245498
+        ],
+        [
+          109.66939443535189,
+          25.04091653027823
+        ],
+        [
+          105.41407528641571,
+          25.53191489361702
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Leaf",
+      "points": [
+        [
+          42.2620232172471,
+          177.91708126036485
+        ],
+        [
+          29.65837479270315,
+          168.79601990049753
+        ],
+        [
+          23.356550580431183,
+          159.8407960199005
+        ],
+        [
+          14.898839137645114,
+          151.2172470978441
+        ],
+        [
+          10.25538971807629,
+          141.43283582089552
+        ],
+        [
+          7.4361525704809335,
+          133.97014925373134
+        ],
+        [
+          8.099502487562194,
+          126.50746268656717
+        ],
+        [
+          8.431177446102824,
+          117.88391376451078
+        ],
+        [
+          8.265339966832508,
+          103.29021558872306
+        ],
+        [
+          5.446102819237153,
+          92.51077943615257
+        ],
+        [
+          5.446102819237153,
+          81.56550580431178
+        ],
+        [
+          5.114427860696523,
+          64.48424543946933
+        ],
+        [
+          6.938640132669988,
+          47.56882255389718
+        ],
+        [
+          11.582089552238811,
+          34.79933665008292
+        ],
+        [
+          15.728026533996688,
+          21.3665008291874
+        ],
+        [
+          17.220563847429524,
+          8.92868988391377
+        ],
+        [
+          16.55721393034826,
+          3.787728026534002
+        ],
+        [
+          22.029850746268664,
+          3.290215588723057
+        ],
+        [
+          31.316749585406306,
+          4.7827529021558925
+        ],
+        [
+          46.076285240464344,
+          6.441127694859043
+        ],
+        [
+          58.182421227197345,
+          6.1094527363184135
+        ],
+        [
+          66.47429519071311,
+          5.777777777777783
+        ],
+        [
+          70.7860696517413,
+          9.094527363184085
+        ],
+        [
+          75.92703150912106,
+          7.601990049751249
+        ],
+        [
+          79.07794361525706,
+          6.7728026533996735
+        ],
+        [
+          92.01326699834163,
+          8.59701492537314
+        ],
+        [
+          107.43615257048093,
+          13.074626865671647
+        ],
+        [
+          122.19568822553897,
+          19.210613598673305
+        ],
+        [
+          139.11111111111111,
+          26.009950248756223
+        ],
+        [
+          153.5389718076285,
+          33.80431177446103
+        ],
+        [
+          165.14759535655057,
+          41.930348258706466
+        ],
+        [
+          176.09286898839136,
+          52.37810945273632
+        ],
+        [
+          184.55058043117742,
+          59.50912106135986
+        ],
+        [
+          193.33996683250413,
+          71.44941956882256
+        ],
+        [
+          201.30016583747926,
+          84.88225538971808
+        ],
+        [
+          209.92371475953564,
+          96.49087893864014
+        ],
+        [
+          217.55223880597015,
+          106.60696517412936
+        ],
+        [
+          223.19071310116084,
+          119.54228855721394
+        ],
+        [
+          227.33665008291874,
+          136.7893864013267
+        ],
+        [
+          229.3266998341625,
+          154.69983416252074
+        ],
+        [
+          231.81426202321722,
+          169.7910447761194
+        ],
+        [
+          232.3117744610282,
+          179.40961857379767
+        ],
+        [
+          235.13101160862354,
+          190.85240464344943
+        ],
+        [
+          236.29187396351574,
+          202.29519071310116
+        ],
+        [
+          234.46766169154228,
+          210.4212271973466
+        ],
+        [
+          230.3217247097844,
+          218.54726368159203
+        ],
+        [
+          219.87396351575455,
+          225.34660033167495
+        ],
+        [
+          211.25041459369817,
+          225.6782752902156
+        ],
+        [
+          204.45107794361525,
+          227.00497512437812
+        ],
+        [
+          200.30514096185738,
+          231.4825870646766
+        ],
+        [
+          194.334991708126,
+          235.7943615257048
+        ],
+        [
+          181.23383084577114,
+          239.44278606965173
+        ],
+        [
+          167.13764510779436,
+          237.12106135986733
+        ],
+        [
+          141.5986733001658,
+          228.99502487562188
+        ],
+        [
+          126.17578772802655,
+          223.52238805970148
+        ],
+        [
+          117.55223880597015,
+          221.53233830845772
+        ],
+        [
+          111.08457711442787,
+          217.55223880597015
+        ],
+        [
+          97.48590381426203,
+          213.7379767827529
+        ],
+        [
+          85.54560530679935,
+          208.92868988391376
+        ],
+        [
+          79.24378109452736,
+          207.43615257048094
+        ],
+        [
+          72.11276948590383,
+          203.6218905472637
+        ],
+        [
+          66.3084577114428,
+          197.48590381426203
+        ],
+        [
+          61.001658374792704,
+          193.00829187396351
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Early_blight_44.jpg",
+  "imageData": "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",
+  "imageHeight": 256,
+  "imageWidth": 256
+}
